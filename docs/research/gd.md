@@ -4,6 +4,6 @@ layout: default
 parent: Research
 ---
 
-# Title
+# Gradient descent
 
-This is page on gd
+...
