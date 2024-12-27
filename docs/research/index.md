@@ -4,5 +4,6 @@ layout: default
 nav_order: 3
 ---
 
-# Utilities
-This is parant page for research
+# Research
+Here, I provide some summary of my (or related) research.
+This page is under construction.
