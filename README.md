@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Jungbin's homepage
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
