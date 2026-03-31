@@ -1,6 +1,7 @@
 ---
 title: Math
 layout: home
+nav_order: 1
 ---
 
 1. Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis (with Insoon Yang). [[Paper]](https://arxiv.org/abs/2202.02036) <br/> <small> Note: Errors in Eq. 6 and Thm. 5.6 have been corrected (thanks to the suggestion by Prof. Ken'ichiro Tanaka. </small>
