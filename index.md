@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Math
 layout: home
 ---
 
